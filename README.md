@@ -1,6 +1,3 @@
- **Salary-Estimating-Predictive-Modeling**
-
-```
 # Salary Estimating - Predictive Modeling
 
 Welcome to the Salary Estimating repository! This project is centered around predicting average salaries for various job titles, including data scientist, data engineer, deep learning engineer, machine learning engineer, director, manager, analyst, and researcher in the USA. The prediction is based on a variety of factors, including company size, industry, location, company name, and job title.
@@ -29,6 +26,3 @@ In this repository, we implement predictive modeling techniques, specifically Li
 Feel free to explore the codebase, experiment with different models, and contribute to enhancing the accuracy of salary predictions. Your contributions are valuable in refining our understanding of salary trends in the tech industry.
 
 Happy Modeling!
-```
-
-Feel free to modify the name and description to better fit your preferences and project details.

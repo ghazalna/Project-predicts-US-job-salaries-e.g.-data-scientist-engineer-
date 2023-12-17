@@ -1,9 +1,4 @@
-# Salary-Estimating
-Certainly! Based on your project description, here's a suitable name and description for your GitHub repository:
-
-Repository Name: **Salary-Estimating-Predictive-Modeling**
-
-Repository Description:
+ **Salary-Estimating-Predictive-Modeling**
 
 ```
 # Salary Estimating - Predictive Modeling
